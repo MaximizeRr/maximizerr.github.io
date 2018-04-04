@@ -734,6 +734,15 @@ position: relative;
   transform: rotate(-45deg);
   color: white;
 }
+#pgp{
+    color:#27527e;
+    text-decoration: none;
+    font-family: consolas, courier new;
+}
+#address{
+    margin-top: 50px;
+    
+}
 /*-------------
  	Footer
 -------------*/
